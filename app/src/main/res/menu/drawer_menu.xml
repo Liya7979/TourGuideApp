@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_hotel"
+            android:icon="@drawable/ic_menu_hotel"
+            android:title="@string/hotel" />
+        <item
+            android:id="@+id/nav_restaurant"
+            android:icon="@drawable/ic_menu_restaurant"
+            android:title="@string/restaurant" />
+        <item
+            android:id="@+id/nav_park"
+            android:icon="@drawable/ic_menu_park"
+            android:title="@string/park"/>
+        <item
+            android:id="@+id/nav_spa"
+            android:icon="@drawable/ic_menu_spa"
+            android:title="@string/spa" />
+    </group>
+</menu>

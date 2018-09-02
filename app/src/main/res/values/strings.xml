@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="hotel">Hotels</string>
+    <string name="park">Parks</string>
+    <string name="spa">Spa</string>
+    <string name="brno">Brno</string>
+    <string name="brno_desc">Brno is the second largest city in the Czech Republic
+        by population and area, the largest Moravian city, and the historical capital
+        city of the Margraviate of Moravia. Brno is the administrative center of the
+        South Moravian Region in which it forms a separate district (Brno-City District).
+        The city lies at the confluence of the Svitava and Svratka rivers and has about
+        400,000 inhabitants; its greater metropolitan area is home to more than 800,000
+        people while its larger urban zone had a population of about 730,000 in 2004.</string>
+    <string name="infinit">Infinit Maximus</string>
+    <string name="infinit_desc">#1 of 8 Spas and Wellness in Brno</string>
+    <string name="tawan">TAWAN Barcelo Brno Palace</string>
+    <string name="tawan_desc">Spas , Health/Fitness Clubs and Gyms</string>
+    <string name="happyyoga">Happyyoga</string>
+    <string name="happyyoga_desc">Yoga and Pilates</string>
+    <string name="relax_body">Relax Body</string>
+    <string name="realx_body_desc">Spas</string>
+    <string name="forcomfort">4Comfort Wellness Centre</string>
+    <string name="forcomfort_desc">Spas</string>
+    <string name="masaze">Masaze Brno - Masaze, Shiatsu a Bowenova technika</string>
+    <string name="masaze_desc">Health/Fitness Clubs and Gyms</string>
+    <string name="sabai">Sabai</string>
+    <string name="sabai_desc">Spas</string>
+    <string name="infinit_lesna">Infinit Lesna</string>
+    <string name="infinit_lesna_desc">Spas, Health/Fitness Clubs and Gyms</string>
+    <string name="brno_dam">Brno Dam</string>
+    <string name="brno_dam_desc">The Brno Reservoir, previously
+                known as the Kníničky Reservoir is a dam on the Svratka River right
+                outside the city of Brno, Czech Republic.</string>
+    <string name="zoo_brno">Zoo Brno</string>
+    <string name="zoo_brno_desc">Brno Zoo, is a Czech zoo,
+                located in Brno in Czech Republic. In 2000,
+                Brno Zoo became member in World Association of Zoos and Aquariums.</string>
+    <string name="park_luzanky">Park Luzanky</string>
+    <string name="park_luzanky_desc">Lužánky is the largest city
+                park in Brno and the oldest municipal park in the Czech Republic.
+                The park is located in the Brno-střed District and covers an area of 22.3 hectares.</string>
+    <string name="botanica">Botanicka Zahrada (Hortus Botanicus)</string>
+    <string name="botanica_desc">Large
+                botanical garden with orchids and exotic flora in a greenhouse,
+                plus a vineyard and a cafe.</string>
+    <string name="junglepark">Junglepark - Lanove Centrum</string>
+    <string name="junglepark_desc">Jungle park is a
+                rope center located in the heart of Brno.</string>
+    <string name="open_gardens">Open Gardens</string>
+    <string name="open_gardens_desc">Built in the heart of the
+                Brno, the Open Gardens has been functioning as a textbook of environmentally
+                friendly architecture, sustainable agriculture and modern environmental protection.</string>
+    <string name="borgo">Borgo Agnese</string>
+    <string name="borgo_desc">$$$$, Italian, Mediterranean, European</string>
+    <string name="koishi">KOISHI fish and sushi restaurant</string>
+    <string name="koishi_desc">$$$$, International, Sushi, Wine Bar</string>
+    <string name="pavilion">Restaurant PAVILLON</string>
+    <string name="pavilion_desc">$$$$, European, Czech, Central European</string>
+    <string name="valoria">Valoria</string>
+    <string name="valoria_desc">$$$$, European, Czech, Central European</string>
+    <string name="pegas">Pegas</string>
+    <string name="pegas_desc">$$ - $$$, Bar, European, Pub</string>
+    <string name="stopkova">Stopkova Plzenska Pivnice</string>
+    <string name="stopkova_desc">$$ - $$$, Bar, European, Pub</string>
+    <string name="starobrno">Starobrno Brewery</string>
+    <string name="starobrno_desc">$$ - $$$, Bar, European, Pub</string>
+    <string name="tulip">Tulip Restaurant</string>
+    <string name="tulip_desc">$$ - $$$, Czech, International</string>
+    <string name="ktery">Bar Ktery Neexistuje</string>
+    <string name="ktery_desc">$$ - $$$, American, Bar</string>
+<string name="grandezza">Grandezza Hotel Luxury Palace</string>
+    <string name="grandezza_desc">Opened in
+        April 2012, located on the Vegetable Market in Brno\'s centre, Grandezza Hotel
+        Luxury Palace is a luxurious boutique hotel featuring a hand-painted glass
+        ceiling and marble mosaics.</string>
+    <string name="barcelo">Barceló Brno Palace</string>
+    <string name="barcelo_desc">Situated on Silingrovo
+                Square in a prestigious historical building known as Mestsky Dvur, the 5-star
+                Barceló Brno Palace can be found in the heart of the city.</string>
+    <string name="avanti">Avanti Hotel</string>
+    <string name="avanti_desc">The Avanti hotel is located
+                200 metres from Brno\'s large Kralovo Pole shopping mall with a sports centre
+                including swimming pools and fitness facilities.</string>
+    <string name="royal">Royal Ricc Hotel</string>
+    <string name="royal_desc">Situated on one of the
+                oldest streets in Brno, the Starobrněnská Street, the romantic Royal Ricc Hotel
+                is right in the historical heart of the city.</string>
+    <string name="grandhotel">Grandhotel Brno</string>
+    <string name="grandhotel_desc">Looking back on a 140
+                year-long tradition in hospitality, this centrally located hotel in the heart of
+                Brno\’s picturesque old town is close to all major sights.</string>
+    <string name="best">Best Western Premier Hotel</string>
+    <string name="best_desc">The Best Western Premier Hotel International Brno is
+                        centrally situated right below Špilberk Castle in the city centre.</string>
+    <string name="orea">Orea Hotel Voronez</string>
+    <string name="orea_desc">The Orea Hotel Voronez
+                next to the Brno Trade Fair grounds (Veletrhy Brno) offers conference facilities,
+                fine cuisine, inviting rooms and easy access to the city centre.</string>
+    <string name="sono">Sono Hotel</string>
+    <string name="sono_desc">Located in the Sono Centrum
+                complex, in the centre of the musical scene and featuring a music club and a
+                restaurant, Sono Hotel offers a modern design, free WiFi access, etc.</string>
+    <string name="efi">eFi Hotel</string>
+    <string name="efi_desc">Located a 10-minute walk
+                from the city centre, eFi Hotel was built in 2014 and offers self-catered
+                apartments, free WiFi, an outdoor swimming pool with a summer bar, a fitness
+                centre and a wellness area.</string>
+</resources>
